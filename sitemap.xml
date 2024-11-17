@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Página Inicial -->
+  <url>
+    <loc>https://www.studiodaianecardoso.com/</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Página de Horários -->
+  <url>
+    <loc>https://www.studiodaianecardoso.com/horarios</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Página da Galeria -->
+  <url>
+    <loc>https://www.studiodaianecardoso.com/galeria</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Página de Procedimentos -->
+  <url>
+    <loc>https://www.studiodaianecardoso.com/procedimentos</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Adicione outras rotas caso existam -->
+</urlset>
